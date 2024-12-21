@@ -27,62 +27,14 @@ Knowledgeable IT professional with a strong foundation in setting up, maintainin
   Completion Date: July 2021  
 
 
+ ##🏆 **Academic Highlights**
+**Achieved excellent academic performance in key modules during my studies:**
 
-Share
-
-
-You said:
-mpdf_letterresults_3887_20241211_113214.pdf
-PDF
-RESUMECV-MR THABANG SELOANE.pdf
-PDF
-create professional portfolios to showcase my work. using github readme file
-ChatGPT
-To create a professional GitHub README file showcasing your work, I will use the information provided in your resume and letter of results. Here's a draft of what your GitHub README might look like:
-
-Thabang Seloane
-Junior IT Technician | Administrative Assistant
-Diploma in IT in Network Design and Administration (Graduating November 2024)
-
-📍 Cullinan, South Africa
-📧 thabangseloane97@gmail.com
-📞 079 949 1794
-LinkedIn Profile
-
-💼 About Me
-Knowledgeable IT professional with a strong foundation in setting up, maintaining, and troubleshooting IT systems. I bring excellent analytical and problem-solving skills, coupled with a detail-oriented mindset and a team-player attitude. My goal is to leverage my skills in IT network design and administration to create innovative and reliable solutions.
-
-🎓 Education
-Diploma in IT in Network Design and Administration
-CTU Training Solutions, Menlyn Pretoria
-Graduation Date: November 2024
-
-Certificate in System Development (NQF Level 4)
-MICTSETA - IKWORX IT Academy, Hatfield Pretoria
-Completion Date: July 2021
-
-🛠️ Skills
-IT System Setup and Maintenance
-Troubleshooting and Problem-Solving
-Administrative Support and Document Management
-Team Collaboration and Training
-Critical Thinking and Attention to Detail
-Flexible and Adaptable
-🗂️ Professional Experience
-Administrative Assistant
-ColdSure Distribution Services, Pretoria (Dec 2017 - Oct 2019)
-
-Managed workloads and assignments for less experienced staff, ensuring organizational objectives were met.
-Performed administrative tasks, including document management and report development.
-Provided clerical support by answering phones and addressing queries while escalating complaints to management.
-
-🏆 Academic Highlights
-Achieved excellent academic performance in key modules during my studies:
-
-Databases (3A & 3B): 85% & 76%
-ICT Trends (3A & 3B): 86% & 80%
-Networks (3A & 3B): 81% & 87%
-Computer Systems (3A & 3B): 70% & 73%
+- Databases (3A & 3B): 85% & 76%
+- ICT Trends (3A & 3B): 86% & 80%
+- Networks (3A & 3B): 81% & 87%
+- Computer Systems (3A & 3B): 70% & 73%
+  
 ## 🛠️ **Skills**
 
 - IT System Setup and Maintenance  
