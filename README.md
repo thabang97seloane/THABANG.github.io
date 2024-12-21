@@ -1,6 +1,3 @@
-To create a professional GitHub README file showcasing your work, I will use the information provided in your resume and letter of results. Here's a draft of what your GitHub README might look like:
-
----
 
 # Thabang Seloane
 
@@ -12,13 +9,12 @@ To create a professional GitHub README file showcasing your work, I will use the
 📞 079 949 1794  
 [LinkedIn Profile](https://linkedin.com/in/thabang-seloane)
 
----
+
 
 ## 💼 **About Me**
 
 Knowledgeable IT professional with a strong foundation in setting up, maintaining, and troubleshooting IT systems. I bring excellent analytical and problem-solving skills, coupled with a detail-oriented mindset and a team-player attitude. My goal is to leverage my skills in IT network design and administration to create innovative and reliable solutions.
 
----
 
 ## 🎓 **Education**
 
@@ -30,7 +26,7 @@ Knowledgeable IT professional with a strong foundation in setting up, maintainin
   *MICTSETA - IKWORX IT Academy, Hatfield Pretoria*  
   Completion Date: July 2021  
 
----
+
 
 ## 🛠️ **Skills**
 
@@ -41,7 +37,7 @@ Knowledgeable IT professional with a strong foundation in setting up, maintainin
 - Critical Thinking and Attention to Detail  
 - Flexible and Adaptable  
 
----
+
 
 ## 🗂️ **Professional Experience**
 
@@ -50,8 +46,6 @@ Knowledgeable IT professional with a strong foundation in setting up, maintainin
 - Managed workloads and assignments for less experienced staff, ensuring organizational objectives were met.  
 - Performed administrative tasks, including document management and report development.  
 - Provided clerical support by answering phones and addressing queries while escalating complaints to management.  
-
----
 
 
 ## 📈 **Projects**
@@ -62,7 +56,6 @@ Designed a scalable, secure, and cost-effective network solution tailored for sm
 ### **Database Management System**  
 Developed a functional database system to streamline organizational record-keeping processes. Focused on optimization and security.
 
----
 
 ## 📌 **Contact**
 
